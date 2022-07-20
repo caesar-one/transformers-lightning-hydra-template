@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lightning-Hydra-Template
+# Transformers-Lightning-Hydra-Template
 
 [![python](https://img.shields.io/badge/-Python_3.7_%7C_3.8_%7C_3.9_%7C_3.10-blue?logo=python&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![pytorch](https://img.shields.io/badge/PyTorch_1.8+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
